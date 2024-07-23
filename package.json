@@ -1,0 +1,18 @@
+{
+  "name": "ton-highload-wallet-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ton/core": "^0.56.3",
+    "@ton/crypto": "^3.2.0",
+    "@ton/ton": "^14.0.0",
+    "ton-highload-wallet-contract": "^1.0.2"
+  }
+}
