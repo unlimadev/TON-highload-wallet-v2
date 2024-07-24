@@ -11,12 +11,6 @@ Welcome to the **TON Highload Wallet Recipes and Examples** repository! This rep
 ## Introduction
 
 This repository contains a collection of recipes and examples designed to help developers interact with TON Higload wallet v2. 
-## Features
-
-- **Comprehensive Guides**: Detailed instructions on setting up and optimizing your environment for TON blockchain interaction.
-- **Code Examples**: Ready-to-use examples demonstrating contract interaction.
-- **Best Practices**: Tips and strategies for handling highload situations efficiently.
-- **Tools and Libraries**: Recommendations for tools and libraries to facilitate development.
 
 ## Contributing
 
