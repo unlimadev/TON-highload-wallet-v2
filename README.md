@@ -1,4 +1,4 @@
-# TON Highload Wallet Recipes and Examples
+# TON Highload Wallet V2 Recipes and Examples
 
 Welcome to the **TON Highload Wallet Recipes and Examples** repository! This repository provides comprehensive guides and examples on how to interact with smart contracts and the TON blockchain efficiently, particularly focusing on highload scenarios.
 
