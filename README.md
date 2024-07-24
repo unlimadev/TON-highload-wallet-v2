@@ -5,7 +5,7 @@ Welcome to the **TON Highload Wallet Recipes and Examples** repository! This rep
 ## Table of Contents
 
 
-- [Examples]((https://github.com/unlimadev/TON-highload-wallet-v2/tree/main/examples)
+- [Examples](https://github.com/unlimadev/TON-highload-wallet-v2/tree/main/examples)
 - [Contact](https://unlima.com)
 
 ## Introduction
