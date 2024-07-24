@@ -20,7 +20,7 @@ This repository contains a collection of recipes and examples designed to help d
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new recipes, feel free to fork this repository and submit a pull request. Please ensure you follow the contribution guidelines outlined in `CONTRIBUTING.md`.
+Contributions are welcome! If you have suggestions for improvements or new recipes, feel free to fork this repository and submit a pull request.
 
 ## Contact
 
